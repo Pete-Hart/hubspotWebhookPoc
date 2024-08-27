@@ -1,0 +1,22 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Configuration files
+*.env
+*.config
+
+# Misc
+*.DS_Store
+*.log
+*.idea/
+~/flaskProject.imi
+misc.xml
+
+
